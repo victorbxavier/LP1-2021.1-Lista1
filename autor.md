@@ -2,9 +2,9 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\Victor Bastos Xavier*
-- Email: *\victor.xavier.702@ufrn.edu.br*
-- Turma: *\Turma 02*
+- Nome: *\<Victor Bastos Xavier>*
+- Email: *\<victor.xavier.702@ufrn.edu.br>*
+- Turma: *\<Turma 02>*
 
 # Questões Finalizadas
 
