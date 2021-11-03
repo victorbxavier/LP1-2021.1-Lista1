@@ -6,7 +6,6 @@
  * @param arr Reference to the array with the values.
  */
 template <std::size_t SIZE>
-void reverse( std::array< std::string, SIZE > & arr )
-{
-    /*codigo*/
+void reverse( std::array< std::string, SIZE > & arr ){
+    
 }

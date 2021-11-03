@@ -1,0 +1,4 @@
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/negativos5/build/CMakeFiles/program.dir
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/negativos5/build/CMakeFiles/verify.dir
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/negativos5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/negativos5/build/CMakeFiles/ZERO_CHECK.dir

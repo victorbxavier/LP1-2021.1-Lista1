@@ -5,7 +5,7 @@
  * @author Selan R. dos Santos
  */
 
-#include "test_manager.h"
+#include "C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\minmax\tests\lib\test_manager\include\test_manager.h"
 
 /*!
  * Updates the test result database.

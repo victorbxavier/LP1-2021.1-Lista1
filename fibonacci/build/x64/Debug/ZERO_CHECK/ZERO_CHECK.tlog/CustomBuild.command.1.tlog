@@ -1,0 +1,10 @@
+^C:\USERS\USER\DOCUMENTS\COD_LP_CPP\LP1-2021.1-LISTA1\FIBONACCI\BUILD\CMAKEFILES\514BCFD5FF1BD5DD4B318E28375945FF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/fibonacci -BC:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/fibonacci/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/fibonacci/build/FibBelowN.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

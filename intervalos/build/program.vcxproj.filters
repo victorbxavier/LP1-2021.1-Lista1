@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\intervalos\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\intervalos\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6701240B-76AE-3F1B-8C27-D1D0446C6247}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
