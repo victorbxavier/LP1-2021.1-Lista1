@@ -4,8 +4,8 @@
 #include <iterator>   // std::begin(), std::end()
 #include <vector>
 
-#include "C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\fibonacci\tests\lib\test_manager\include\test_manager.h"
-#include "C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\fibonacci\src\function.h"
+#include "test_manager.h"
+#include "function.h"
 
 
 int main ( void )

@@ -1,0 +1,5 @@
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/func.dir
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/all_tests.dir
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/run_tests.dir
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/ZERO_CHECK.dir

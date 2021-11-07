@@ -1,0 +1,20 @@
+^C:\USERS\USER\DOCUMENTS\COD_LP_CPP\LP1-2021.1-LISTA1\PONTO_EM_RETANGULO_2\BUILD\CMAKEFILES\EBCF9EA59D13229CF16CB1D9DDC08F81\VERIFY.RULE
+setlocal
+python3 C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_2/../scripts/verify-inputs.py ./DEBUG/program
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DOCUMENTS\COD_LP_CPP\LP1-2021.1-LISTA1\PONTO_EM_RETANGULO_2\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_2 -BC:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_2/build --check-stamp-file C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_2/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

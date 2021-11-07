@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\inverter\src\function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\inverter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1FF481E6-06BD-33E8-9077-E0DCF93718E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

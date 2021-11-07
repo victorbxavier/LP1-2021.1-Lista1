@@ -1,0 +1,10 @@
+^C:\USERS\USER\DOCUMENTS\COD_LP_CPP\LP1-2021.1-LISTA1\PONTO_EM_RETANGULO_1\BUILD\CMAKEFILES\E2EE170AFF05D6082261C27A9E932481\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_1 -BC:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/Documents/cod_lp_cpp/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/Rectangle1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

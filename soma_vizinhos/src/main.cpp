@@ -18,8 +18,7 @@ int main( void )
 
             for (size_t i = 0; i < -m; i++){
                 soma=soma+n;
-                n--;
-                // cout<<soma<<" "<<n<<" "<<m<<" teste"<<endl;
+                n--;  
             }
 
             cout<<soma<<endl;
@@ -28,7 +27,6 @@ int main( void )
             for (size_t i = 0; i < m; i++){
                 soma=soma+n;
                 n++;
-                // cout<<soma<<" "<<n<<" "<<m<<" teste"<<endl;
             }
 
             cout<<soma<<endl;

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\ponto_em_retangulo_2\build\CMakeFiles\ebcf9ea59d13229cf16cb1d9ddc08f81\verify.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\ponto_em_retangulo_2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\ponto_em_retangulo_2\build\CMakeFiles\verify" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A0CDA64D-FE89-3A90-908B-A1E70866A6D5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,5 +1,5 @@
 #include "include/catch2/catch.hpp"
-#include "C:\Users\user\Documents\cod_lp_cpp\LP1-2021.1-Lista1\minmax\src\function.h"
+#include "function.h"
 
 
 TEST_CASE("Empty array", "[min_max]")
